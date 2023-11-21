@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kusMmjS1nuT+VOLnMvqAeVKk8wEaDZ04/5954zwBLdQHEsl394BqCkd3xRoXM2Skw3uxNj6i+xTJMAts/iVcvg==",
+  "dgSpecHash": "gi+nt8Ng54M0WqTpwcZScMb8UnnZnMVwAx6HUqrw1QLjdUHVkcaRifHSJcVXVxSZBj80dsRxpdR47sda/zsSlg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\EcommStart\\EcommStart\\EcommStart\\Client\\EcommStart.Client.csproj",
+  "projectFilePath": "D:\\Projetos\\Clone\\EcommStart\\Client\\EcommStart.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\augus\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
     "C:\\Users\\augus\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.13\\microsoft.aspnetcore.components.7.0.13.nupkg.sha512",

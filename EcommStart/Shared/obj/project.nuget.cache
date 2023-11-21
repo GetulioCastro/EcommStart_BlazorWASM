@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7OiR4rSL2m2q2rni3p+k+AuUTJRZkA5kp7KbmDtWLbJIVCJYAcdBMH1VV3g2ywtlkHo4tic5RuT90YJQ0AqXWw==",
+  "dgSpecHash": "Gz83aGtwORx/CdLdUx5ctU2l+Q/2DjH+Rv4a6Law7rSSL4xiDQY9EBsZ9Hezj8SwrFZEb/J7Y7grlEFKBXxvAw==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\EcommStart\\EcommStart\\EcommStart\\Shared\\EcommStart.Shared.csproj",
+  "projectFilePath": "D:\\Projetos\\Clone\\EcommStart\\Shared\\EcommStart.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1989,11 +1989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\EcommStart\\EcommStart\\EcommStart\\Client\\EcommStart.Client.csproj",
+      "projectUniqueName": "D:\\Projetos\\Clone\\EcommStart\\Client\\EcommStart.Client.csproj",
       "projectName": "EcommStart.Client",
-      "projectPath": "D:\\Projetos\\EcommStart\\EcommStart\\EcommStart\\Client\\EcommStart.Client.csproj",
+      "projectPath": "D:\\Projetos\\Clone\\EcommStart\\Client\\EcommStart.Client.csproj",
       "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\EcommStart\\EcommStart\\EcommStart\\Client\\obj\\",
+      "outputPath": "D:\\Projetos\\Clone\\EcommStart\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2015,8 +2015,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projetos\\EcommStart\\EcommStart\\EcommStart\\Shared\\EcommStart.Shared.csproj": {
-              "projectPath": "D:\\Projetos\\EcommStart\\EcommStart\\EcommStart\\Shared\\EcommStart.Shared.csproj"
+            "D:\\Projetos\\Clone\\EcommStart\\Shared\\EcommStart.Shared.csproj": {
+              "projectPath": "D:\\Projetos\\Clone\\EcommStart\\Shared\\EcommStart.Shared.csproj"
             }
           }
         }
